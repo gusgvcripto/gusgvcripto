@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gusgvcripto from Argentina
+- 👋 Hi, I’m @gusgv from Argentina
 - 👀 I’m interested in becoming a developer using blockchain technology
 - 🌱 I’m currently learning Solidity
 - 📫 How to reach me gusgvillafane@gmail.com +5491161405589
